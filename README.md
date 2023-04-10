@@ -1,2 +1,2 @@
 # Landing-page_DOTPET
-Landing-page para o meu site chamado DOTPET
+Landing-page criada para o meu tcc, um site chamado DOTPET.
