@@ -14,7 +14,7 @@ Bem-vindo ao DotPet, um projeto desenvolvido como parte do meu Trabalho de Concl
 💡 Sobre o Projeto:
 O DotPet foi criado como parte do meu TCC para destacar a importância da tecnologia na promoção da adoção responsável de animais. Este projeto combina minha paixão por desenvolvimento web e amor pelos animais.
 
-📬 Entre em contato: Se você tiver alguma pergunta ou feedback sobre este projeto, sinta-se à vontade para entrar em contato comigo. Estou sempre aberto a colaborações e oportunidades emocionantes.
+📬 Se você tiver alguma pergunta, feedback ou desejar colaborar com este projeto, não hesite em entrar em contato comigo. Estou sempre aberto a parcerias e contribuições para melhorar o DotPet.
 
 🌐 Conecte-se comigo:
 - [LinkedIn](https://www.linkedin.com/in/ana-julia-nunes-melo-12855822a/)
